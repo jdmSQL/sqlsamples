@@ -1,0 +1,2 @@
+
+There are 3 files here to illustrate writing an elaborate stored procedure to populate a report.   Also, the rdl file is included showing the report definition, and there's a PDF showing what the report generation looked like.  There were a couple of other sprocs to populate the graphs in this report but which haven't been included here.
